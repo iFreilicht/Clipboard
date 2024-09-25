@@ -5,6 +5,9 @@
 Exported_Clipboards/
 CMakeFiles/
 
+.direnv
+result
+
 src/tests/test_*
 
 *.flatpak
